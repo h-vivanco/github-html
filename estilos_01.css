@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.menu-navegacion {
+    background-color: rgb(65, 236, 65);
+    padding: 10px;
+    margin: 0;
+    }
+.menu-navegacion li{
+    display: inline-block;
+    }
+.menu-navegacion a{
+    color: white;
+    text-decoration: none;
+    }
+
+/* pseudo seleccion */
+.menu-navegacion a:hover{
+    background-color: darkgreen;
+    }
+
+        

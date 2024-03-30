@@ -1,0 +1,10 @@
+/* Bloque de comentarios */
+p{color:green}
+h1{color: blue}
+#titulo-principal{color: red}
+.titulo-secundario{color: green}
+.border-box{ 
+    border: solid 1px black;
+    margin: 50px;
+    padding: 20px
+}
